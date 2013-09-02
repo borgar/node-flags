@@ -1,0 +1,2904 @@
+[
+  {
+    "title": "Abkhazia",
+    "name": "abkhazia",
+    "url": "/2/27/Flag_of_Abkhazia.svg",
+    "part_of": "georgia"
+  },
+  {
+    "title": "Aden",
+    "name": "aden",
+    "url": "/b/b7/Flag_of_the_Colony_of_Aden.svg",
+    "obsolete": true,
+    "part_of": "united_kingdom",
+    "ISO3166_a3": "ADN"
+  },
+  {
+    "title": "Afghanistan",
+    "name": "afghanistan",
+    "url": "/9/9a/Flag_of_Afghanistan.svg",
+    "FIFA": "AFG",
+    "IOC": "AFG",
+    "ISO3166_a3": "AFG",
+    "ISO3166_a2": "AF"
+  },
+  {
+    "title": "Akrotiri and Dhekelia",
+    "name": "uk_cyprus",
+    "url": "/a/ae/Flag_of_the_United_Kingdom.svg",
+    "part_of": "united_kingdom"
+  },
+  {
+    "title": "Albania",
+    "name": "albania",
+    "url": "/3/36/Flag_of_Albania.svg",
+    "FIFA": "ALB",
+    "IOC": "ALB",
+    "ISO3166_a3": "ALB",
+    "ISO3166_a2": "AL"
+  },
+  {
+    "title": "Alderney",
+    "name": "alderney",
+    "url": "/f/f3/Flag_of_Alderney.svg",
+    "part_of": "united_kingdom",
+    "ISO3166_a3": "GBA"
+  },
+  {
+    "title": "Algeria",
+    "name": "algeria",
+    "url": "/7/77/Flag_of_Algeria.svg",
+    "FIFA": "ALG",
+    "IOC": "ALG",
+    "ISO3166_a3": "DZA",
+    "ISO3166_a2": "DZ"
+  },
+  {
+    "title": "American Samoa",
+    "name": "american_samoa",
+    "url": "/8/87/Flag_of_American_Samoa.svg",
+    "part_of": "usa",
+    "FIFA": "ASA",
+    "IOC": "ASA",
+    "ISO3166_a3": "ASM",
+    "ISO3166_a2": "AS"
+  },
+  {
+    "title": "Andorra",
+    "name": "andorra",
+    "url": "/1/19/Flag_of_Andorra.svg",
+    "FIFA": "AND",
+    "IOC": "AND",
+    "ISO3166_a3": "AND",
+    "ISO3166_a2": "AD"
+  },
+  {
+    "title": "Angola",
+    "name": "angola",
+    "url": "/9/9d/Flag_of_Angola.svg",
+    "FIFA": "ANG",
+    "IOC": "ANG",
+    "ISO3166_a3": "AGO",
+    "ISO3166_a2": "AO"
+  },
+  {
+    "title": "Anguilla",
+    "name": "anguilla",
+    "url": "/b/b4/Flag_of_Anguilla.svg",
+    "FIFA": "AIA",
+    "ISO3166_a3": "AIA",
+    "ISO3166_a2": "AI"
+  },
+  {
+    "title": "Antarctica",
+    "name": "antarctica",
+    "url": "/f/fa/Flag_of_Antarctica.svg",
+    "ISO3166_a3": "ATA",
+    "ISO3166_a2": "AQ"
+  },
+  {
+    "title": "Antigua and Barbuda",
+    "name": "antigua_and_barbuda",
+    "url": "/8/89/Flag_of_Antigua_and_Barbuda.svg",
+    "FIFA": "ATG",
+    "IOC": "ANT",
+    "ISO3166_a3": "ATG",
+    "ISO3166_a2": "AG"
+  },
+  {
+    "title": "Argentina",
+    "name": "argentina",
+    "url": "/1/1a/Flag_of_Argentina.svg",
+    "FIFA": "ARG",
+    "IOC": "ARG",
+    "ISO3166_a3": "ARG",
+    "ISO3166_a2": "AR"
+  },
+  {
+    "title": "Armenia",
+    "name": "armenia",
+    "url": "/2/2f/Flag_of_Armenia.svg",
+    "FIFA": "ARM",
+    "IOC": "ARM",
+    "ISO3166_a3": "ARM",
+    "ISO3166_a2": "AM"
+  },
+  {
+    "title": "Aruba",
+    "name": "aruba",
+    "url": "/f/f6/Flag_of_Aruba.svg",
+    "FIFA": "ARU",
+    "IOC": "ARU",
+    "ISO3166_a3": "ABW",
+    "ISO3166_a2": "AW"
+  },
+  {
+    "title": "Ascension Island",
+    "name": "ascension_island",
+    "url": "/a/ae/Flag_of_the_United_Kingdom.svg",
+    "part_of": "sh_a_tdc",
+    "ISO3166_a3": "ASC",
+    "ISO3166_a2": "AC"
+  },
+  {
+    "title": "Australia",
+    "name": "australia",
+    "url": "/b/b9/Flag_of_Australia.svg",
+    "FIFA": "AUS",
+    "IOC": "AUS",
+    "ISO3166_a3": "AUS",
+    "ISO3166_a2": "AU"
+  },
+  {
+    "title": "Austria",
+    "name": "austria",
+    "url": "/4/41/Flag_of_Austria.svg",
+    "FIFA": "AUT",
+    "IOC": "AUT",
+    "ISO3166_a3": "AUT",
+    "ISO3166_a2": "AT"
+  },
+  {
+    "title": "Azad Jammu and Kashmir",
+    "name": "ajk",
+    "url": "/4/4d/Flag_of_Azad_Kashmir.svg",
+    "part_of": "pakistan"
+  },
+  {
+    "title": "Azerbaijan",
+    "name": "azerbaijan",
+    "url": "/d/dd/Flag_of_Azerbaijan.svg",
+    "FIFA": "AZE",
+    "IOC": "AZE",
+    "ISO3166_a3": "AZE",
+    "ISO3166_a2": "AZ"
+  },
+  {
+    "title": "Bahamas",
+    "name": "bahamas",
+    "url": "/9/93/Flag_of_the_Bahamas.svg",
+    "FIFA": "BAH",
+    "IOC": "BAH",
+    "ISO3166_a3": "BHS",
+    "ISO3166_a2": "BS"
+  },
+  {
+    "title": "Bahrain",
+    "name": "bahrain",
+    "url": "/2/2c/Flag_of_Bahrain.svg",
+    "FIFA": "BHR",
+    "IOC": "BRN",
+    "ISO3166_a3": "BHR",
+    "ISO3166_a2": "BH"
+  },
+  {
+    "title": "Bangladesh",
+    "name": "bangladesh",
+    "url": "/f/f9/Flag_of_Bangladesh.svg",
+    "FIFA": "BAN",
+    "IOC": "BAN",
+    "ISO3166_a3": "BGD",
+    "ISO3166_a2": "BD"
+  },
+  {
+    "title": "Barbados",
+    "name": "barbados",
+    "url": "/e/ef/Flag_of_Barbados.svg",
+    "FIFA": "BRB",
+    "IOC": "BAR",
+    "ISO3166_a3": "BRB",
+    "ISO3166_a2": "BB"
+  },
+  {
+    "title": "Belarus",
+    "name": "belarus",
+    "url": "/8/85/Flag_of_Belarus.svg",
+    "FIFA": "BLR",
+    "IOC": "BLR",
+    "ISO3166_a3": "BLR",
+    "ISO3166_a2": "BY"
+  },
+  {
+    "title": "Belgium",
+    "name": "belgium",
+    "url": "/9/92/Flag_of_Belgium_%28civil%29.svg",
+    "FIFA": "BEL",
+    "IOC": "BEL",
+    "ISO3166_a3": "BEL",
+    "ISO3166_a2": "BE"
+  },
+  {
+    "title": "Belize",
+    "name": "belize",
+    "url": "/e/e7/Flag_of_Belize.svg",
+    "FIFA": "BLZ",
+    "IOC": "BIZ",
+    "ISO3166_a3": "BLZ",
+    "ISO3166_a2": "BZ"
+  },
+  {
+    "title": "Benin",
+    "name": "benin",
+    "url": "/0/0a/Flag_of_Benin.svg",
+    "FIFA": "BEN",
+    "IOC": "BEN",
+    "ISO3166_a3": "BEN",
+    "ISO3166_a2": "BJ"
+  },
+  {
+    "title": "Bermuda",
+    "name": "bermuda",
+    "url": "/b/bf/Flag_of_Bermuda.svg",
+    "FIFA": "BER",
+    "IOC": "BER",
+    "ISO3166_a3": "BMU",
+    "ISO3166_a2": "BM"
+  },
+  {
+    "title": "Bhutan",
+    "name": "bhutan",
+    "url": "/9/91/Flag_of_Bhutan.svg",
+    "FIFA": "BHU",
+    "IOC": "BHU",
+    "ISO3166_a3": "BTN",
+    "ISO3166_a2": "BT"
+  },
+  {
+    "title": "Bohemia",
+    "name": "bohemia",
+    "url": "/b/b1/Flag_of_Bohemia.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Bolivia, Plurinational State of",
+    "name": "bolivia",
+    "url": "/4/48/Flag_of_Bolivia.svg",
+    "FIFA": "BOL",
+    "IOC": "BOL",
+    "ISO3166_a3": "BOL",
+    "ISO3166_a2": "BO"
+  },
+  {
+    "title": "Bonaire",
+    "name": "bonaire",
+    "url": "/1/1e/Flag_of_Bonaire.svg",
+    "part_of": "netherlands",
+    "ISO3166_a2": "NL-BQ1"
+  },
+  {
+    "title": "Bosnia and Herzegovina",
+    "name": "bosnia_and_herzegovina",
+    "url": "/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+    "FIFA": "BIH",
+    "IOC": "BIH",
+    "ISO3166_a3": "BIH",
+    "ISO3166_a2": "BA"
+  },
+  {
+    "title": "Botswana",
+    "name": "botswana",
+    "url": "/f/fa/Flag_of_Botswana.svg",
+    "FIFA": "BOT",
+    "IOC": "BOT",
+    "ISO3166_a3": "BWA",
+    "ISO3166_a2": "BW"
+  },
+  {
+    "title": "Bouvet Island",
+    "name": "bouvet_island",
+    "url": "/d/d9/Flag_of_Norway.svg",
+    "ISO3166_a3": "BVT",
+    "ISO3166_a2": "BV"
+  },
+  {
+    "title": "Brazil",
+    "name": "brazil",
+    "url": "/0/05/Flag_of_Brazil.svg",
+    "FIFA": "BRA",
+    "IOC": "BRA",
+    "ISO3166_a3": "BRA",
+    "ISO3166_a2": "BR"
+  },
+  {
+    "title": "British Guiana",
+    "name": "uk_guiana",
+    "url": "/6/60/Flag_of_British_guiana_1919-1954.gif",
+    "part_of": "united_kingdom",
+    "obsolete": true
+  },
+  {
+    "title": "British Honduras",
+    "name": "uk_honduras",
+    "url": "/8/8a/Flag_of_British_Honduras.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true,
+    "FIFA": "BHO\n\n ",
+    "IOC": "HBR"
+  },
+  {
+    "title": "British India",
+    "name": "uk_india",
+    "url": "/b/be/British_Raj_Red_Ensign.svg",
+    "obsolete": true,
+    "part_of": "united_kingdom"
+  },
+  {
+    "title": "British Indian Ocean Territory",
+    "name": "biot",
+    "url": "/6/6e/Flag_of_the_British_Indian_Ocean_Territory.svg",
+    "ISO3166_a3": "IOT",
+    "ISO3166_a2": "IO"
+  },
+  {
+    "title": "British Somaliland",
+    "name": "uk_somaliland",
+    "url": "/6/62/Flag_of_British_Somaliland_%281950-60%29.png",
+    "part_of": "united_kingdom",
+    "obsolete": true
+  },
+  {
+    "title": "Brunei Darussalam",
+    "name": "brunei",
+    "url": "/9/9c/Flag_of_Brunei.svg",
+    "FIFA": "BRU",
+    "IOC": "BRU",
+    "ISO3166_a3": "BRN",
+    "ISO3166_a2": "BN"
+  },
+  {
+    "title": "Bulgaria",
+    "name": "bulgaria",
+    "url": "/9/9a/Flag_of_Bulgaria.svg",
+    "FIFA": "BUL",
+    "IOC": "BUL",
+    "ISO3166_a3": "BGR",
+    "ISO3166_a2": "BG"
+  },
+  {
+    "title": "Burkina Faso",
+    "name": "burkina_faso",
+    "url": "/3/31/Flag_of_Burkina_Faso.svg",
+    "FIFA": "BFA",
+    "IOC": "BUR",
+    "ISO3166_a3": "BFA",
+    "ISO3166_a2": "BF"
+  },
+  {
+    "title": "Burma",
+    "name": "burma",
+    "url": "/8/8c/Flag_of_Myanmar.svg",
+    "FIFA": "BUR",
+    "IOC": "BIR",
+    "ISO3166_a3": "BUR",
+    "ISO3166_a2": "BU"
+  },
+  {
+    "title": "Burundi",
+    "name": "burundi",
+    "url": "/5/50/Flag_of_Burundi.svg",
+    "FIFA": "BDI",
+    "IOC": "BDI",
+    "ISO3166_a3": "BDI",
+    "ISO3166_a2": "BI"
+  },
+  {
+    "title": "Byelorussian Soviet Socialist Republic",
+    "name": "bssr",
+    "url": "/4/46/Flag_of_Byelorussian_SSR.svg",
+    "obsolete": true,
+    "part_of": "soviet_union"
+  },
+  {
+    "title": "Cambodia",
+    "name": "cambodia",
+    "url": "/8/83/Flag_of_Cambodia.svg",
+    "FIFA": "CAM",
+    "IOC": "CAM",
+    "ISO3166_a3": "KHM",
+    "ISO3166_a2": "KH"
+  },
+  {
+    "title": "Cameroon",
+    "name": "cameroon",
+    "url": "/4/4f/Flag_of_Cameroon.svg",
+    "FIFA": "CMR",
+    "IOC": "CMR",
+    "ISO3166_a3": "CMR",
+    "ISO3166_a2": "CM"
+  },
+  {
+    "title": "Canada",
+    "name": "canada",
+    "url": "/c/cf/Flag_of_Canada.svg",
+    "FIFA": "CAN",
+    "IOC": "CAN",
+    "ISO3166_a3": "CAN",
+    "ISO3166_a2": "CA"
+  },
+  {
+    "title": "Canary Islands",
+    "name": "canary_islands",
+    "url": "/b/b0/Flag_of_the_Canary_Islands.svg",
+    "ISO3166_a2": "IC"
+  },
+  {
+    "title": "Cape Verde",
+    "name": "cape_verde",
+    "url": "/3/38/Flag_of_Cape_Verde.svg",
+    "FIFA": "CPV",
+    "IOC": "CPV",
+    "ISO3166_a3": "CPV",
+    "ISO3166_a2": "CV"
+  },
+  {
+    "title": "Caribbean Netherlands",
+    "name": "bes_islands",
+    "url": "/2/20/Flag_of_the_Netherlands.svg",
+    "part_of": "netherlands",
+    "ISO3166_a3": "BES",
+    "ISO3166_a2": "BQ"
+  },
+  {
+    "title": "Cayman Islands",
+    "name": "cayman_islands",
+    "url": "/0/0f/Flag_of_the_Cayman_Islands.svg",
+    "FIFA": "CAY",
+    "IOC": "CAY",
+    "ISO3166_a3": "CYM",
+    "ISO3166_a2": "KY"
+  },
+  {
+    "title": "Central African Republic",
+    "name": "central_african_republic",
+    "url": "/6/6f/Flag_of_the_Central_African_Republic.svg",
+    "FIFA": "CTA",
+    "IOC": "CAF",
+    "ISO3166_a3": "CAF",
+    "ISO3166_a2": "CF"
+  },
+  {
+    "title": "Ceylon",
+    "name": "ceylon",
+    "url": "/2/29/Flag_of_Ceylon.svg",
+    "obsolete": true,
+    "FIFA": "CEY",
+    "IOC": "CEY"
+  },
+  {
+    "title": "Chad",
+    "name": "chad",
+    "url": "/4/4b/Flag_of_Chad.svg",
+    "FIFA": "CHA",
+    "IOC": "CHA",
+    "ISO3166_a3": "TCD",
+    "ISO3166_a2": "TD"
+  },
+  {
+    "title": "Chile",
+    "name": "chile",
+    "url": "/7/78/Flag_of_Chile.svg",
+    "FIFA": "CHI",
+    "IOC": "CHI",
+    "ISO3166_a3": "CHL",
+    "ISO3166_a2": "CL"
+  },
+  {
+    "title": "China",
+    "name": "china",
+    "url": "/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+    "FIFA": "CHN",
+    "IOC": "CHN",
+    "ISO3166_a3": "CHN",
+    "ISO3166_a2": "CN"
+  },
+  {
+    "title": "Christmas Island",
+    "name": "christmas_island",
+    "url": "/6/67/Flag_of_Christmas_Island.svg",
+    "ISO3166_a3": "CXR",
+    "ISO3166_a2": "CX"
+  },
+  {
+    "title": "Cocos (Keeling) Islands",
+    "name": "cocos_islands",
+    "url": "/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg",
+    "ISO3166_a3": "CCK",
+    "ISO3166_a2": "CC"
+  },
+  {
+    "title": "Colombia",
+    "name": "colombia",
+    "url": "/2/21/Flag_of_Colombia.svg",
+    "FIFA": "COL",
+    "IOC": "COL",
+    "ISO3166_a3": "COL",
+    "ISO3166_a2": "CO"
+  },
+  {
+    "title": "Commonwealth of Independent States",
+    "name": "cis",
+    "url": "/1/11/Flag_of_the_CIS.svg"
+  },
+  {
+    "title": "Comoros",
+    "name": "comoros",
+    "url": "/9/94/Flag_of_the_Comoros.svg",
+    "FIFA": "COM",
+    "IOC": "COM",
+    "ISO3166_a3": "COM",
+    "ISO3166_a2": "KM"
+  },
+  {
+    "title": "Condominium of Bosnia and Herzegovina",
+    "name": "cmbh",
+    "url": "/7/70/Flag_of_Bosnia_%281908-1918%29.svg",
+    "part_of": "ottoman",
+    "obsolete": true
+  },
+  {
+    "title": "Congo",
+    "name": "congo",
+    "url": "/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+    "FIFA": "CGO",
+    "IOC": "CGO",
+    "ISO3166_a3": "COG",
+    "ISO3166_a2": "CG"
+  },
+  {
+    "title": "Congo, the Democratic Republic of the",
+    "name": "congo_dr",
+    "url": "/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+    "FIFA": "COD",
+    "IOC": "COD",
+    "ISO3166_a3": "COD",
+    "ISO3166_a2": "CD"
+  },
+  {
+    "title": "Congo-Brazzaville",
+    "name": "congo_brazzaville",
+    "url": "/d/d4/Flag_of_the_People%27s_Republic_of_Congo.svg"
+  },
+  {
+    "title": "Congo-Kinshasa",
+    "name": "congo_kinshasa",
+    "url": "/6/66/Flag_of_the_Democratic_Republic_of_the_Congo_%282003-2006%29.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Cook Islands",
+    "name": "cook_islands",
+    "url": "/3/35/Flag_of_the_Cook_Islands.svg",
+    "FIFA": "COK",
+    "IOC": "COK",
+    "ISO3166_a3": "COK",
+    "ISO3166_a2": "CK"
+  },
+  {
+    "title": "Costa Rica",
+    "name": "costa_rica",
+    "url": "/f/f2/Flag_of_Costa_Rica.svg",
+    "FIFA": "CRC",
+    "IOC": "CRC",
+    "ISO3166_a3": "CRI",
+    "ISO3166_a2": "CR"
+  },
+  {
+    "title": "Croatia",
+    "name": "croatia",
+    "url": "/1/1b/Flag_of_Croatia.svg",
+    "FIFA": "CRO",
+    "IOC": "CRO",
+    "ISO3166_a3": "HRV",
+    "ISO3166_a2": "HR"
+  },
+  {
+    "title": "Cuba",
+    "name": "cuba",
+    "url": "/b/bd/Flag_of_Cuba.svg",
+    "FIFA": "CUB",
+    "IOC": "CUB",
+    "ISO3166_a3": "CUB",
+    "ISO3166_a2": "CU"
+  },
+  {
+    "title": "Curaçao",
+    "name": "curacao",
+    "url": "/b/b1/Flag_of_Cura%C3%A7ao.svg",
+    "FIFA": "CUW",
+    "ISO3166_a3": "CUW",
+    "ISO3166_a2": "CW"
+  },
+  {
+    "title": "Cyprus",
+    "name": "cyprus",
+    "url": "/d/d4/Flag_of_Cyprus.svg",
+    "FIFA": "CYP",
+    "IOC": "CYP",
+    "ISO3166_a3": "CYP",
+    "ISO3166_a2": "CY"
+  },
+  {
+    "title": "Czech Republic",
+    "name": "czech_republic",
+    "url": "/c/cb/Flag_of_the_Czech_Republic.svg",
+    "FIFA": "CZE",
+    "IOC": "CZE",
+    "ISO3166_a3": "CZE",
+    "ISO3166_a2": "CZ"
+  },
+  {
+    "title": "Czechoslovakia",
+    "name": "czechoslovakia",
+    "url": "/2/2d/Flag_of_Czechoslovakia.svg",
+    "FIFA": "TCH",
+    "IOC": "TCH",
+    "ISO3166_a3": "CSK",
+    "ISO3166_a2": "CS"
+  },
+  {
+    "title": "Côte d'Ivoire",
+    "name": "cote_divoire",
+    "url": "/f/fe/Flag_of_Côte_d%27Ivoire.svg",
+    "FIFA": "CIV",
+    "IOC": "CIV",
+    "ISO3166_a3": "CIV",
+    "ISO3166_a2": "CI"
+  },
+  {
+    "title": "Dahomey",
+    "name": "dahomey",
+    "url": "/a/ac/Flag_of_Benin_%281975-1990%29.svg",
+    "FIFA": "DAH",
+    "IOC": "DAH",
+    "ISO3166_a3": "DHY",
+    "ISO3166_a2": "DY"
+  },
+  {
+    "title": "Denmark",
+    "name": "denmark",
+    "url": "/9/9c/Flag_of_Denmark.svg",
+    "FIFA": "DEN",
+    "IOC": "DEN",
+    "ISO3166_a3": "DNK",
+    "ISO3166_a2": "DK"
+  },
+  {
+    "title": "Dervish state",
+    "name": "daraawiish",
+    "url": "/1/1d/Dervish_flag.svg",
+    "part_of": "somalia",
+    "obsolete": true
+  },
+  {
+    "title": "Djibouti",
+    "name": "djibouti",
+    "url": "/3/34/Flag_of_Djibouti.svg",
+    "FIFA": "DJI",
+    "IOC": "DJI",
+    "ISO3166_a3": "DJI",
+    "ISO3166_a2": "DJ"
+  },
+  {
+    "title": "Dominica",
+    "name": "dominica",
+    "url": "/c/c4/Flag_of_Dominica.svg",
+    "FIFA": "DMA",
+    "IOC": "DMA",
+    "ISO3166_a3": "DMA",
+    "ISO3166_a2": "DM"
+  },
+  {
+    "title": "Dominican Republic",
+    "name": "dominican_republic",
+    "url": "/9/9f/Flag_of_the_Dominican_Republic.svg",
+    "FIFA": "DOM",
+    "IOC": "DOM",
+    "ISO3166_a3": "DOM",
+    "ISO3166_a2": "DO"
+  },
+  {
+    "title": "Dutch East Indies",
+    "name": "dutch_east_indies",
+    "url": "/2/20/Flag_of_the_Netherlands.svg",
+    "part_of": "netherlands",
+    "obsolete": true
+  },
+  {
+    "title": "Dutch Guiana",
+    "name": "dutch_guiana",
+    "url": "/9/9d/Flag_of_Dutch_Guyana.svg",
+    "part_of": "netherlands",
+    "obsolete": true
+  },
+  {
+    "title": "East Germany",
+    "name": "east_germany",
+    "url": "/a/a1/Flag_of_East_Germany.svg",
+    "FIFA": "DDR",
+    "IOC": "GDR",
+    "ISO3166_a3": "DDR",
+    "ISO3166_a2": "DD"
+  },
+  {
+    "title": "Ecuador",
+    "name": "ecuador",
+    "url": "/e/e8/Flag_of_Ecuador.svg",
+    "FIFA": "ECU",
+    "IOC": "ECU",
+    "ISO3166_a3": "ECU",
+    "ISO3166_a2": "EC"
+  },
+  {
+    "title": "Egypt",
+    "name": "egypt",
+    "url": "/f/fe/Flag_of_Egypt.svg",
+    "FIFA": "EGY",
+    "IOC": "EGY",
+    "ISO3166_a3": "EGY",
+    "ISO3166_a2": "EG"
+  },
+  {
+    "title": "El Salvador",
+    "name": "el_salvador",
+    "url": "/3/34/Flag_of_El_Salvador.svg",
+    "FIFA": "SLV",
+    "IOC": "ESA",
+    "ISO3166_a3": "SLV",
+    "ISO3166_a2": "SV"
+  },
+  {
+    "title": "Emirate of Diriyah",
+    "name": "diriyah",
+    "url": "/6/60/Flag_of_the_First_Saudi_State.svg",
+    "obsolete": true
+  },
+  {
+    "title": "England",
+    "name": "england",
+    "url": "/b/be/Flag_of_England.svg",
+    "FIFA": "ENG",
+    "ISO3166_a3": "ENG",
+    "ISO3166_a2": "ENG"
+  },
+  {
+    "title": "Equatorial Guinea",
+    "name": "equatorial_guinea",
+    "url": "/3/31/Flag_of_Equatorial_Guinea.svg",
+    "FIFA": "EQG",
+    "IOC": "GEQ",
+    "ISO3166_a3": "GNQ",
+    "ISO3166_a2": "GQ"
+  },
+  {
+    "title": "Eritrea",
+    "name": "eritrea",
+    "url": "/2/29/Flag_of_Eritrea.svg",
+    "FIFA": "ERI",
+    "IOC": "ERI",
+    "ISO3166_a3": "ERI",
+    "ISO3166_a2": "ER"
+  },
+  {
+    "title": "Estonia",
+    "name": "estonia",
+    "url": "/8/8f/Flag_of_Estonia.svg",
+    "FIFA": "EST",
+    "IOC": "EST",
+    "ISO3166_a3": "EST",
+    "ISO3166_a2": "EE"
+  },
+  {
+    "title": "Ethiopia",
+    "name": "ethiopia",
+    "url": "/7/71/Flag_of_Ethiopia.svg",
+    "FIFA": "ETH",
+    "IOC": "ETH",
+    "ISO3166_a3": "ETH",
+    "ISO3166_a2": "ET"
+  },
+  {
+    "title": "European Union",
+    "name": "eu",
+    "url": "/b/b7/Flag_of_Europe.svg",
+    "ISO3166_a2": "EU"
+  },
+  {
+    "title": "Falkland Islands (Malvinas)",
+    "name": "malvinas",
+    "url": "/8/83/Flag_of_the_Falkland_Islands.svg",
+    "ISO3166_a3": "FLK",
+    "ISO3166_a2": "FK"
+  },
+  {
+    "title": "Faroe Islands",
+    "name": "faroe_islands",
+    "url": "/3/3c/Flag_of_the_Faroe_Islands.svg",
+    "FIFA": "FRO",
+    "ISO3166_a3": "FRO",
+    "ISO3166_a2": "FO"
+  },
+  {
+    "title": "Federation of Malaya",
+    "name": "malaya",
+    "url": "/4/4c/Flag_of_Malaya.svg",
+    "obsolete": true,
+    "FIFA": "?",
+    "IOC": "MAL"
+  },
+  {
+    "title": "Fezzan-Ghadames",
+    "name": "french_libya",
+    "url": "/8/84/Flag_of_Fezzan.png",
+    "part_of": "france",
+    "obsolete": true
+  },
+  {
+    "title": "Fiji",
+    "name": "fiji",
+    "url": "/b/ba/Flag_of_Fiji.svg",
+    "FIFA": "FIJ",
+    "IOC": "FIJ",
+    "ISO3166_a3": "FJI",
+    "ISO3166_a2": "FJ"
+  },
+  {
+    "title": "Finland",
+    "name": "finland",
+    "url": "/b/bc/Flag_of_Finland.svg",
+    "FIFA": "FIN",
+    "IOC": "FIN",
+    "ISO3166_a3": "FIN",
+    "ISO3166_a2": "FI"
+  },
+  {
+    "title": "First Hellenic Republic",
+    "name": "hellenic1",
+    "url": "/6/6e/Flag_of_Greece_%281822-1978%29.svg",
+    "obsolete": true
+  },
+  {
+    "title": "France",
+    "name": "france",
+    "url": "/c/c3/Flag_of_France.svg",
+    "FIFA": "FRA",
+    "IOC": "FRA",
+    "ISO3166_a3": "FRA",
+    "ISO3166_a2": "FR"
+  },
+  {
+    "title": "French Guiana",
+    "name": "french_guiana",
+    "url": "/c/c3/Flag_of_France.svg",
+    "alt_url": "/2/29/Flag_of_French_Guiana.svg",
+    "ISO3166_a3": "GUF",
+    "ISO3166_a2": "GF"
+  },
+  {
+    "title": "French Polynesia",
+    "name": "french_polynesia",
+    "url": "/d/db/Flag_of_French_Polynesia.svg",
+    "FIFA": "TAH",
+    "ISO3166_a3": "PYF",
+    "ISO3166_a2": "PF"
+  },
+  {
+    "title": "French Somaliland",
+    "name": "french_somaliland",
+    "url": "/c/c3/Flag_of_France.svg",
+    "part_of": "france",
+    "obsolete": true
+  },
+  {
+    "title": "French Southern Territories",
+    "name": "taaf",
+    "url": "/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg",
+    "part_of": "france",
+    "ISO3166_a3": "ATF",
+    "ISO3166_a2": "TF"
+  },
+  {
+    "title": "French protectorate of Tunisia",
+    "name": "french_tunisia",
+    "url": "/6/6b/Flag_of_French_Tunisia.svg",
+    "part_of": "france",
+    "obsolete": true
+  },
+  {
+    "title": "Gabon",
+    "name": "gabon",
+    "url": "/0/04/Flag_of_Gabon.svg",
+    "FIFA": "GAB",
+    "IOC": "GAB",
+    "ISO3166_a3": "GAB",
+    "ISO3166_a2": "GA"
+  },
+  {
+    "title": "Gambia",
+    "name": "gambia",
+    "url": "/7/77/Flag_of_The_Gambia.svg",
+    "FIFA": "GAM",
+    "IOC": "GAM",
+    "ISO3166_a3": "GMB",
+    "ISO3166_a2": "GM"
+  },
+  {
+    "title": "Georgia",
+    "name": "georgia",
+    "url": "/0/0f/Flag_of_Georgia.svg",
+    "FIFA": "GEO",
+    "IOC": "GEO",
+    "ISO3166_a3": "GEO",
+    "ISO3166_a2": "GE"
+  },
+  {
+    "title": "Germany",
+    "name": "germany",
+    "url": "/b/ba/Flag_of_Germany.svg",
+    "FIFA": "GER",
+    "IOC": "GER",
+    "ISO3166_a3": "DEU"
+  },
+  {
+    "title": "Ghana",
+    "name": "ghana",
+    "url": "/1/19/Flag_of_Ghana.svg",
+    "FIFA": "GHA",
+    "IOC": "GHA",
+    "ISO3166_a3": "GHA",
+    "ISO3166_a2": "GH"
+  },
+  {
+    "title": "Gibraltar",
+    "name": "gibraltar",
+    "url": "/0/02/Flag_of_Gibraltar.svg",
+    "ISO3166_a3": "GIB",
+    "ISO3166_a2": "GI"
+  },
+  {
+    "title": "Gold Coast",
+    "name": "gold_coast",
+    "url": "/4/45/Flag_of_the_Gold_Coast.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true
+  },
+  {
+    "title": "Greece",
+    "name": "greece",
+    "url": "/5/5c/Flag_of_Greece.svg",
+    "FIFA": "GRE",
+    "IOC": "GRE",
+    "ISO3166_a3": "GRC",
+    "ISO3166_a2": "GR"
+  },
+  {
+    "title": "Greenland",
+    "name": "greenland",
+    "url": "/0/09/Flag_of_Greenland.svg",
+    "ISO3166_a3": "GRL",
+    "ISO3166_a2": "GL"
+  },
+  {
+    "title": "Grenada",
+    "name": "grenada",
+    "url": "/b/bc/Flag_of_Grenada.svg",
+    "FIFA": "GRN",
+    "IOC": "GRN",
+    "ISO3166_a3": "GRD",
+    "ISO3166_a2": "GD"
+  },
+  {
+    "title": "Guadeloupe",
+    "name": "guadeloupe",
+    "url": "/0/04/Flag_of_Guadeloupe_%28local%29.svg",
+    "offical": "/c/c3/Flag_of_France.svg",
+    "ISO3166_a3": "GLP",
+    "ISO3166_a2": "GP"
+  },
+  {
+    "title": "Guam",
+    "name": "guam",
+    "url": "/0/07/Flag_of_Guam.svg",
+    "part_of": "usa",
+    "FIFA": "GUM",
+    "IOC": "GUM",
+    "ISO3166_a3": "GUM",
+    "ISO3166_a2": "GU"
+  },
+  {
+    "title": "Guatemala",
+    "name": "guatemala",
+    "url": "/e/ec/Flag_of_Guatemala.svg",
+    "FIFA": "GUA",
+    "IOC": "GUA",
+    "ISO3166_a3": "GTM",
+    "ISO3166_a2": "GT"
+  },
+  {
+    "title": "Guernsey",
+    "name": "guernsey",
+    "url": "/f/fa/Flag_of_Guernsey.svg",
+    "ISO3166_a3": "GGY",
+    "ISO3166_a2": "GG"
+  },
+  {
+    "title": "Guinea",
+    "name": "guinea",
+    "url": "/e/ed/Flag_of_Guinea.svg",
+    "FIFA": "GUI",
+    "IOC": "GUI",
+    "ISO3166_a3": "GIN",
+    "ISO3166_a2": "GN"
+  },
+  {
+    "title": "Guinea-Bissau",
+    "name": "guinea_bissau",
+    "url": "/0/01/Flag_of_Guinea-Bissau.svg",
+    "FIFA": "GNB",
+    "IOC": "GBS",
+    "ISO3166_a3": "GNB",
+    "ISO3166_a2": "GW"
+  },
+  {
+    "title": "Guyana",
+    "name": "guyana",
+    "url": "/9/99/Flag_of_Guyana.svg",
+    "FIFA": "GUY",
+    "IOC": "GUY",
+    "ISO3166_a3": "GUY",
+    "ISO3166_a2": "GY"
+  },
+  {
+    "title": "Haiti",
+    "name": "haiti",
+    "url": "/5/56/Flag_of_Haiti.svg",
+    "FIFA": "HAI",
+    "IOC": "HAI",
+    "ISO3166_a3": "HTI",
+    "ISO3166_a2": "HT"
+  },
+  {
+    "title": "Heard Island and McDonald Islands",
+    "name": "himi",
+    "url": "/b/b9/Flag_of_Australia.svg",
+    "part_of": "australia",
+    "ISO3166_a3": "HMD",
+    "ISO3166_a2": "HM"
+  },
+  {
+    "title": "Herm",
+    "name": "herm",
+    "url": "/b/b8/Flag_of_Herm.svg",
+    "part_of": "united_kingdom"
+  },
+  {
+    "title": "Holy See (Vatican City State)",
+    "name": "vatican",
+    "url": "/0/00/Flag_of_the_Vatican_City.svg",
+    "ISO3166_a3": "VAT",
+    "ISO3166_a2": "VA"
+  },
+  {
+    "title": "Honduras",
+    "name": "honduras",
+    "url": "/8/82/Flag_of_Honduras.svg",
+    "FIFA": "HON",
+    "IOC": "HON",
+    "ISO3166_a3": "HND",
+    "ISO3166_a2": "HN"
+  },
+  {
+    "title": "Hong Kong",
+    "name": "hong_kong",
+    "url": "/5/5b/Flag_of_Hong_Kong.svg",
+    "FIFA": "HKG",
+    "IOC": "HKG",
+    "ISO3166_a3": "HKG",
+    "ISO3166_a2": "HK"
+  },
+  {
+    "title": "Hungary",
+    "name": "hungary",
+    "url": "/c/c1/Flag_of_Hungary.svg",
+    "FIFA": "HUN",
+    "IOC": "HUN",
+    "ISO3166_a3": "HUN",
+    "ISO3166_a2": "HU"
+  },
+  {
+    "title": "Iceland",
+    "name": "iceland",
+    "url": "/c/ce/Flag_of_Iceland.svg",
+    "FIFA": "ISL",
+    "IOC": "ISL",
+    "ISO3166_a3": "ISL",
+    "ISO3166_a2": "IS"
+  },
+  {
+    "title": "India",
+    "name": "india",
+    "url": "/4/41/Flag_of_India.svg",
+    "FIFA": "IND",
+    "IOC": "IND",
+    "ISO3166_a3": "IND",
+    "ISO3166_a2": "IN"
+  },
+  {
+    "title": "Indonesia",
+    "name": "indonesia",
+    "url": "/9/9f/Flag_of_Indonesia.svg",
+    "FIFA": "IDN",
+    "IOC": "INA",
+    "ISO3166_a3": "IDN",
+    "ISO3166_a2": "ID"
+  },
+  {
+    "title": "Iran, Islamic Republic of",
+    "name": "iran",
+    "url": "/c/ca/Flag_of_Iran.svg",
+    "FIFA": "IRN",
+    "IOC": "IRI",
+    "ISO3166_a3": "IRN",
+    "ISO3166_a2": "IR"
+  },
+  {
+    "title": "Iraq",
+    "name": "iraq",
+    "url": "/f/f6/Flag_of_Iraq.svg",
+    "FIFA": "IRQ",
+    "IOC": "IRQ",
+    "ISO3166_a3": "IRQ",
+    "ISO3166_a2": "IQ"
+  },
+  {
+    "title": "Ireland",
+    "name": "ireland",
+    "url": "/4/45/Flag_of_Ireland.svg",
+    "FIFA": "IRL",
+    "IOC": "IRL",
+    "ISO3166_a3": "IRL",
+    "ISO3166_a2": "IE"
+  },
+  {
+    "title": "Isle of Man",
+    "name": "isle_of_man",
+    "url": "/b/bc/Flag_of_the_Isle_of_Man.svg",
+    "ISO3166_a3": "IMN",
+    "ISO3166_a2": "IM"
+  },
+  {
+    "title": "Israel",
+    "name": "israel",
+    "url": "/d/d4/Flag_of_Israel.svg",
+    "FIFA": "ISR",
+    "IOC": "ISR",
+    "ISO3166_a3": "ISR",
+    "ISO3166_a2": "IL"
+  },
+  {
+    "title": "Italian Cyrenaica",
+    "name": "italian_cyrenaica",
+    "url": "/a/ad/Flag_of_Italy_%281861-1946%29.svg",
+    "part_of": "italy",
+    "obsolete": true
+  },
+  {
+    "title": "Italian Eritrea",
+    "name": "italian_eritrea",
+    "url": "/a/ad/Flag_of_Italy_%281861-1946%29.svg",
+    "part_of": "italy",
+    "obsolete": true
+  },
+  {
+    "title": "Italian Libya",
+    "name": "italian_libya",
+    "url": "/a/ad/Flag_of_Italy_%281861-1946%29.svg",
+    "part_of": "italy",
+    "obsolete": true
+  },
+  {
+    "title": "Italian Somaliland",
+    "name": "italian_somaliland",
+    "url": "/a/ad/Flag_of_Italy_%281861-1946%29.svg",
+    "part_of": "italy",
+    "obsolete": true
+  },
+  {
+    "title": "Italian Tripolitania",
+    "name": "italian_libya",
+    "url": "/a/ad/Flag_of_Italy_%281861-1946%29.svg",
+    "part_of": "italy",
+    "obsolete": true
+  },
+  {
+    "title": "Italy",
+    "name": "italy",
+    "url": "/0/03/Flag_of_Italy.svg",
+    "FIFA": "ITA",
+    "IOC": "ITA",
+    "ISO3166_a3": "ITA",
+    "ISO3166_a2": "IT"
+  },
+  {
+    "title": "Jamaica",
+    "name": "jamaica",
+    "url": "/0/0a/Flag_of_Jamaica.svg",
+    "FIFA": "JAM",
+    "IOC": "JAM",
+    "ISO3166_a3": "JAM",
+    "ISO3166_a2": "JM"
+  },
+  {
+    "title": "Japan",
+    "name": "japan",
+    "url": "/9/9e/Flag_of_Japan.svg",
+    "FIFA": "JPN",
+    "IOC": "JPN",
+    "ISO3166_a3": "JPN",
+    "ISO3166_a2": "JP"
+  },
+  {
+    "title": "Jersey",
+    "name": "jersey",
+    "url": "/1/1c/Flag_of_Jersey.svg",
+    "ISO3166_a3": "JEY",
+    "ISO3166_a2": "JE"
+  },
+  {
+    "title": "Johnston Atoll",
+    "name": "johnston_atoll",
+    "url": "/e/e5/Flag_of_Johnston_Atoll_%28local%29.svg",
+    "offical": "/a/a4/Flag_of_the_United_States.svg",
+    "part_of": "usa"
+  },
+  {
+    "title": "Jolly Roger",
+    "name": "pirate",
+    "url": "/f/ff/Flag_of_Edward_England.svg",
+    "obsolete": true,
+    "part_of": "-"
+  },
+  {
+    "title": "Jordan",
+    "name": "jordan",
+    "url": "/c/c0/Flag_of_Jordan.svg",
+    "FIFA": "JOR",
+    "IOC": "JOR",
+    "ISO3166_a3": "JOR",
+    "ISO3166_a2": "JO"
+  },
+  {
+    "title": "Karamanid dynasty",
+    "name": "karamanids",
+    "url": "/2/2f/Karamanid_Dynasty_flag.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Kazakhstan",
+    "name": "kazakhstan",
+    "url": "/d/d3/Flag_of_Kazakhstan.svg",
+    "FIFA": "KAZ",
+    "IOC": "KAZ",
+    "ISO3166_a3": "KAZ",
+    "ISO3166_a2": "KZ"
+  },
+  {
+    "title": "Kenya",
+    "name": "kenya",
+    "url": "/4/49/Flag_of_Kenya.svg",
+    "FIFA": "KEN",
+    "IOC": "KEN",
+    "ISO3166_a3": "KEN",
+    "ISO3166_a2": "KE"
+  },
+  {
+    "title": "Khedivate of Egypt",
+    "name": "khedivate_of_egypt",
+    "url": "/2/2d/Flag_of_Muhammad_Ali.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Khmer Republic",
+    "name": "khmer",
+    "url": "/a/a8/Flag_of_the_Khmer_Republic.svg",
+    "obsolete": true,
+    "FIFA": "?",
+    "IOC": "KHM"
+  },
+  {
+    "title": "Kiribati",
+    "name": "kiribati",
+    "url": "/d/d3/Flag_of_Kiribati.svg",
+    "IOC": "KIR",
+    "ISO3166_a3": "KIR",
+    "ISO3166_a2": "KI"
+  },
+  {
+    "title": "Korea, Democratic People's Republic of",
+    "name": "north_korea",
+    "url": "/5/51/Flag_of_North_Korea.svg",
+    "FIFA": "PRK",
+    "IOC": "PRK",
+    "ISO3166_a3": "PRK",
+    "ISO3166_a2": "KP"
+  },
+  {
+    "title": "Korea, Republic of",
+    "name": "south_korea",
+    "url": "/0/09/Flag_of_South_Korea.svg",
+    "FIFA": "KOR",
+    "IOC": "KOR",
+    "ISO3166_a3": "KOR",
+    "ISO3166_a2": "KR"
+  },
+  {
+    "title": "Kosovo",
+    "name": "kosovo",
+    "url": "/1/1f/Flag_of_Kosovo.svg",
+    "ISO3166_a2": "XK"
+  },
+  {
+    "title": "Kuwait",
+    "name": "kuwait",
+    "url": "/a/aa/Flag_of_Kuwait.svg",
+    "FIFA": "KUW",
+    "IOC": "KUW",
+    "ISO3166_a3": "KWT",
+    "ISO3166_a2": "KW"
+  },
+  {
+    "title": "Kyrgyzstan",
+    "name": "kyrgyzstan",
+    "url": "/c/c7/Flag_of_Kyrgyzstan.svg",
+    "FIFA": "KGZ",
+    "IOC": "KGZ",
+    "ISO3166_a3": "KGZ",
+    "ISO3166_a2": "KG"
+  },
+  {
+    "title": "Lao People's Democratic Republic",
+    "name": "laos",
+    "url": "/5/56/Flag_of_Laos.svg",
+    "FIFA": "LAO",
+    "IOC": "LAO",
+    "ISO3166_a3": "LAO",
+    "ISO3166_a2": "LA"
+  },
+  {
+    "title": "Latvia",
+    "name": "latvia",
+    "url": "/8/84/Flag_of_Latvia.svg",
+    "FIFA": "LVA",
+    "IOC": "LAT",
+    "ISO3166_a3": "LVA",
+    "ISO3166_a2": "LV"
+  },
+  {
+    "title": "Lebanon",
+    "name": "lebanon",
+    "url": "/5/59/Flag_of_Lebanon.svg",
+    "FIFA": "LIB",
+    "IOC": "LIB",
+    "ISO3166_a3": "LBN",
+    "ISO3166_a2": "LB"
+  },
+  {
+    "title": "Lesotho",
+    "name": "lesotho",
+    "url": "/4/4a/Flag_of_Lesotho.svg",
+    "FIFA": "LES",
+    "IOC": "LES",
+    "ISO3166_a3": "LSO",
+    "ISO3166_a2": "LS"
+  },
+  {
+    "title": "Liberia",
+    "name": "liberia",
+    "url": "/b/b8/Flag_of_Liberia.svg",
+    "FIFA": "LBR",
+    "IOC": "LBR",
+    "ISO3166_a3": "LBR",
+    "ISO3166_a2": "LR"
+  },
+  {
+    "title": "Libyan Arab Jamahiriya",
+    "name": "libya",
+    "url": "/0/05/Flag_of_Libya.svg",
+    "FIFA": "LBY",
+    "IOC": "LBA",
+    "ISO3166_a3": "LBY",
+    "ISO3166_a2": "LY"
+  },
+  {
+    "title": "Liechtenstein",
+    "name": "liechtenstein",
+    "url": "/4/47/Flag_of_Liechtenstein.svg",
+    "FIFA": "LIE",
+    "IOC": "LIE",
+    "ISO3166_a3": "LIE",
+    "ISO3166_a2": "LI"
+  },
+  {
+    "title": "Lithuania",
+    "name": "lithuania",
+    "url": "/1/11/Flag_of_Lithuania.svg",
+    "FIFA": "LTU",
+    "IOC": "LTU",
+    "ISO3166_a3": "LTU",
+    "ISO3166_a2": "LT"
+  },
+  {
+    "title": "Lord Howe Island",
+    "name": "lord_howe_island",
+    "url": "/7/78/Flag_of_Lord_Howe_Island.svg",
+    "part_of": "australia"
+  },
+  {
+    "title": "Luxembourg",
+    "name": "luxembourg",
+    "url": "/d/da/Flag_of_Luxembourg.svg",
+    "FIFA": "LUX",
+    "IOC": "LUX",
+    "ISO3166_a3": "LUX",
+    "ISO3166_a2": "LU"
+  },
+  {
+    "title": "Macau",
+    "name": "macau",
+    "url": "/6/63/Flag_of_Macau.svg",
+    "FIFA": "MAC",
+    "ISO3166_a3": "MAC",
+    "ISO3166_a2": "MO"
+  },
+  {
+    "title": "Macedonia, the former Yugoslav Republic of",
+    "name": "macedonia",
+    "url": "/f/f8/Flag_of_Macedonia.svg",
+    "FIFA": "MKD",
+    "IOC": "MKD",
+    "ISO3166_a3": "MKD",
+    "ISO3166_a2": "MK"
+  },
+  {
+    "title": "Madagascar",
+    "name": "madagascar",
+    "url": "/b/bc/Flag_of_Madagascar.svg",
+    "FIFA": "MAD",
+    "IOC": "MAD",
+    "ISO3166_a3": "MDG",
+    "ISO3166_a2": "MG"
+  },
+  {
+    "title": "Malawi",
+    "name": "malawi",
+    "url": "/d/d1/Flag_of_Malawi.svg",
+    "FIFA": "MWI",
+    "IOC": "MAW",
+    "ISO3166_a3": "MWI",
+    "ISO3166_a2": "MW"
+  },
+  {
+    "title": "Malaysia",
+    "name": "malaysia",
+    "url": "/6/66/Flag_of_Malaysia.svg",
+    "FIFA": "MAS",
+    "IOC": "MAS",
+    "ISO3166_a3": "MYS",
+    "ISO3166_a2": "MY"
+  },
+  {
+    "title": "Maldives",
+    "name": "maldives",
+    "url": "/0/0f/Flag_of_Maldives.svg",
+    "FIFA": "MDV",
+    "IOC": "MDV",
+    "ISO3166_a3": "MDV",
+    "ISO3166_a2": "MV"
+  },
+  {
+    "title": "Mali",
+    "name": "mali",
+    "url": "/9/92/Flag_of_Mali.svg",
+    "FIFA": "MLI",
+    "IOC": "MLI",
+    "ISO3166_a3": "MLI",
+    "ISO3166_a2": "ML"
+  },
+  {
+    "title": "Malta",
+    "name": "malta",
+    "url": "/7/73/Flag_of_Malta.svg",
+    "FIFA": "MLT",
+    "IOC": "MLT",
+    "ISO3166_a3": "MLT",
+    "ISO3166_a2": "MT"
+  },
+  {
+    "title": "Mamluk Sultanate",
+    "name": "mamluk_sultanate",
+    "url": "/1/1f/Mameluke_Flag.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Marshall Islands",
+    "name": "marshall_islands",
+    "url": "/2/2e/Flag_of_the_Marshall_Islands.svg",
+    "IOC": "MHL",
+    "ISO3166_a3": "MHL",
+    "ISO3166_a2": "MH"
+  },
+  {
+    "title": "Martinique",
+    "name": "martinique",
+    "url": "/5/52/Flag_of_Martinique.svg",
+    "ISO3166_a3": "MTQ",
+    "ISO3166_a2": "MQ"
+  },
+  {
+    "title": "Mauritania",
+    "name": "mauritania",
+    "url": "/4/43/Flag_of_Mauritania.svg",
+    "FIFA": "MTN",
+    "IOC": "MTN",
+    "ISO3166_a3": "MRT",
+    "ISO3166_a2": "MR"
+  },
+  {
+    "title": "Mauritius",
+    "name": "mauritius",
+    "url": "/7/77/Flag_of_Mauritius.svg",
+    "FIFA": "MRI",
+    "IOC": "MRI",
+    "ISO3166_a3": "MUS",
+    "ISO3166_a2": "MU"
+  },
+  {
+    "title": "Mayotte",
+    "name": "mayotte",
+    "url": "/4/4a/Flag_of_Mayotte_%28local%29.svg",
+    "ISO3166_a3": "MYT",
+    "ISO3166_a2": "YT"
+  },
+  {
+    "title": "Mexico",
+    "name": "mexico",
+    "url": "/f/fc/Flag_of_Mexico.svg",
+    "FIFA": "MEX",
+    "IOC": "MEX",
+    "ISO3166_a3": "MEX",
+    "ISO3166_a2": "MX"
+  },
+  {
+    "title": "Micronesia, Federated States of",
+    "name": "micronesia",
+    "url": "/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+    "IOC": "FSM",
+    "ISO3166_a3": "FSM",
+    "ISO3166_a2": "FM"
+  },
+  {
+    "title": "Midway Islands",
+    "name": "midway_islands",
+    "url": "/2/2a/Flag_of_the_Midway_Islands_%28local%29.svg",
+    "offical": "/a/a4/Flag_of_the_United_States.svg",
+    "part_of": "usa",
+    "ISO3166_a3": "MID",
+    "ISO3166_a2": "MI"
+  },
+  {
+    "title": "Moldova, Republic of",
+    "name": "moldova",
+    "url": "/2/27/Flag_of_Moldova.svg",
+    "FIFA": "MDA",
+    "IOC": "MDA",
+    "ISO3166_a3": "MDA",
+    "ISO3166_a2": "MD"
+  },
+  {
+    "title": "Monaco",
+    "name": "monaco",
+    "url": "/e/ea/Flag_of_Monaco.svg",
+    "IOC": "MON",
+    "ISO3166_a3": "MCO",
+    "ISO3166_a2": "MC"
+  },
+  {
+    "title": "Mongolia",
+    "name": "mongolia",
+    "url": "/4/4c/Flag_of_Mongolia.svg",
+    "FIFA": "MGL",
+    "IOC": "MGL",
+    "ISO3166_a3": "MNG",
+    "ISO3166_a2": "MN"
+  },
+  {
+    "title": "Montenegro",
+    "name": "montenegro",
+    "url": "/6/64/Flag_of_Montenegro.svg",
+    "FIFA": "MNE",
+    "IOC": "MNE",
+    "ISO3166_a3": "MNE",
+    "ISO3166_a2": "ME"
+  },
+  {
+    "title": "Montserrat",
+    "name": "montserrat",
+    "url": "/d/d0/Flag_of_Montserrat.svg",
+    "FIFA": "MSR",
+    "ISO3166_a3": "MSR",
+    "ISO3166_a2": "MS"
+  },
+  {
+    "title": "Morocco",
+    "name": "morocco",
+    "url": "/2/2c/Flag_of_Morocco.svg",
+    "FIFA": "MAR",
+    "IOC": "MAR",
+    "ISO3166_a3": "MAR",
+    "ISO3166_a2": "MA"
+  },
+  {
+    "title": "Mozambique",
+    "name": "mozambique",
+    "url": "/d/d0/Flag_of_Mozambique.svg",
+    "FIFA": "MOZ",
+    "IOC": "MOZ",
+    "ISO3166_a3": "MOZ",
+    "ISO3166_a2": "MZ"
+  },
+  {
+    "title": "Myanmar",
+    "name": "myanmar",
+    "url": "/8/8c/Flag_of_Myanmar.svg",
+    "FIFA": "MYA",
+    "IOC": "MYA",
+    "ISO3166_a3": "MMR",
+    "ISO3166_a2": "MM"
+  },
+  {
+    "title": "Nagorno-Karabakh Republic",
+    "name": "nkr",
+    "url": "/8/8d/Flag_of_Nagorno-Karabakh.svg",
+    "part_of": "azerbaijan"
+  },
+  {
+    "title": "Namibia",
+    "name": "namibia",
+    "url": "/0/00/Flag_of_Namibia.svg",
+    "FIFA": "NAM",
+    "IOC": "NAM",
+    "ISO3166_a3": "NAM",
+    "ISO3166_a2": "NA"
+  },
+  {
+    "title": "Nauru",
+    "name": "nauru",
+    "url": "/3/30/Flag_of_Nauru.svg",
+    "IOC": "NRU",
+    "ISO3166_a3": "NRU",
+    "ISO3166_a2": "NR"
+  },
+  {
+    "title": "Navassa Island",
+    "name": "navassa_island",
+    "url": "/1/1b/Flag_of_Navassa_Island_%28local%29.svg",
+    "offical": "/a/a4/Flag_of_the_United_States.svg",
+    "part_of": "usa"
+  },
+  {
+    "title": "Nepal",
+    "name": "nepal",
+    "url": "/9/9b/Flag_of_Nepal.svg",
+    "FIFA": "NEP",
+    "IOC": "NEP",
+    "ISO3166_a3": "NPL",
+    "ISO3166_a2": "NP"
+  },
+  {
+    "title": "Netherlands",
+    "name": "netherlands",
+    "url": "/2/20/Flag_of_the_Netherlands.svg",
+    "FIFA": "NED",
+    "IOC": "NED",
+    "ISO3166_a3": "NLD",
+    "ISO3166_a2": "NL"
+  },
+  {
+    "title": "Netherlands Antilles",
+    "name": "netherlands_antilles",
+    "url": "/9/92/Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg",
+    "part_of": "netherlands",
+    "obsolete": true,
+    "FIFA": "ANT",
+    "IOC": "AHO",
+    "ISO3166_a3": "ANT",
+    "ISO3166_a2": "AN"
+  },
+  {
+    "title": "New Caledonia",
+    "name": "new_caledonia",
+    "url": "/2/23/Flag_of_New_Caledonia.svg",
+    "FIFA": "NCL",
+    "ISO3166_a3": "NCL",
+    "ISO3166_a2": "NC"
+  },
+  {
+    "title": "New Hebrides",
+    "name": "new_hebrides",
+    "url": "/c/c3/Flag_of_France.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true,
+    "ISO3166_a3": "NHB",
+    "ISO3166_a2": "NH"
+  },
+  {
+    "title": "New Zealand",
+    "name": "new_zealand",
+    "url": "/3/3e/Flag_of_New_Zealand.svg",
+    "FIFA": "NZL",
+    "IOC": "NZL",
+    "ISO3166_a3": "NZL",
+    "ISO3166_a2": "NZ"
+  },
+  {
+    "title": "Nicaragua",
+    "name": "nicaragua",
+    "url": "/1/19/Flag_of_Nicaragua.svg",
+    "FIFA": "NCA",
+    "IOC": "NCA",
+    "ISO3166_a3": "NIC",
+    "ISO3166_a2": "NI"
+  },
+  {
+    "title": "Niger",
+    "name": "niger",
+    "url": "/f/f4/Flag_of_Niger.svg",
+    "FIFA": "NIG",
+    "IOC": "NIG",
+    "ISO3166_a3": "NER",
+    "ISO3166_a2": "NE"
+  },
+  {
+    "title": "Nigeria",
+    "name": "nigeria",
+    "url": "/7/79/Flag_of_Nigeria.svg",
+    "FIFA": "NGA",
+    "IOC": "NGR",
+    "ISO3166_a3": "NGA",
+    "ISO3166_a2": "NG"
+  },
+  {
+    "title": "Niue",
+    "name": "niue",
+    "url": "/0/01/Flag_of_Niue.svg",
+    "ISO3166_a3": "NIU",
+    "ISO3166_a2": "NU"
+  },
+  {
+    "title": "Norfolk Island",
+    "name": "norfolk_island",
+    "url": "/4/48/Flag_of_Norfolk_Island.svg",
+    "ISO3166_a3": "NFK",
+    "ISO3166_a2": "NF"
+  },
+  {
+    "title": "North Borneo",
+    "name": "north_borneo",
+    "url": "/2/2b/Flag_of_North_Borneo.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true,
+    "FIFA": "NBO",
+    "IOC": "?"
+  },
+  {
+    "title": "North Vietnam",
+    "name": "north_vietnam",
+    "url": "/c/cf/Flag_of_North_Vietnam.svg",
+    "FIFA": "VNO",
+    "ISO3166_a3": "VDR",
+    "ISO3166_a2": "VD"
+  },
+  {
+    "title": "North Yemen",
+    "name": "north_yemen",
+    "url": "/f/f6/Flag_of_North_Yemen.svg",
+    "FIFA": "NYE",
+    "IOC": "YAR",
+    "ISO3166_a3": "YEM"
+  },
+  {
+    "title": "Northern Cyprus",
+    "name": "north_cyprus",
+    "url": "/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg",
+    "part_of": "cyprus"
+  },
+  {
+    "title": "Northern Ireland",
+    "name": "north_ireland",
+    "url": "/8/88/Ulster_banner.svg",
+    "FIFA": "NIR",
+    "ISO3166_a3": "NIR",
+    "ISO3166_a2": "NIR"
+  },
+  {
+    "title": "Northern Mariana Islands",
+    "name": "cnmi",
+    "url": "/e/e0/Flag_of_the_Northern_Mariana_Islands.svg",
+    "part_of": "usa",
+    "ISO3166_a3": "MNP",
+    "ISO3166_a2": "MP"
+  },
+  {
+    "title": "Northern Rhodesia",
+    "name": "north_rhodesia",
+    "url": "/c/c9/Flag_of_Northern_Rhodesia_%281939-1953%29.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true,
+    "FIFA": "NRH",
+    "IOC": "NRH"
+  },
+  {
+    "title": "Norway",
+    "name": "norway",
+    "url": "/d/d9/Flag_of_Norway.svg",
+    "FIFA": "NOR",
+    "IOC": "NOR",
+    "ISO3166_a3": "NOR",
+    "ISO3166_a2": "NO"
+  },
+  {
+    "title": "Oman",
+    "name": "oman",
+    "url": "/d/dd/Flag_of_Oman.svg",
+    "FIFA": "OMA",
+    "IOC": "OMA",
+    "ISO3166_a3": "OMN",
+    "ISO3166_a2": "OM"
+  },
+  {
+    "title": "Ottoman Empire",
+    "name": "ottoman",
+    "url": "/b/b0/Ottoman_flag.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Ottoman Tripolitania",
+    "name": "ottoman_tripolitania",
+    "url": "/9/94/Flag_of_Vilayet-i_Trablusgarp.svg",
+    "part_of": "ottoman",
+    "obsolete": true
+  },
+  {
+    "title": "Pakistan",
+    "name": "pakistan",
+    "url": "/3/32/Flag_of_Pakistan.svg",
+    "FIFA": "PAK",
+    "IOC": "PAK",
+    "ISO3166_a3": "PAK",
+    "ISO3166_a2": "PK"
+  },
+  {
+    "title": "Palau",
+    "name": "palau",
+    "url": "/4/48/Flag_of_Palau.svg",
+    "IOC": "PLW",
+    "ISO3166_a3": "PLW",
+    "ISO3166_a2": "PW"
+  },
+  {
+    "title": "Palestine/Eretz Israel",
+    "name": "palestine_eretz_israel",
+    "url": "/3/33/Palestine-Mandate-Ensign-1927-1948.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true
+  },
+  {
+    "title": "Palmyra Atoll",
+    "name": "palmyra_atoll",
+    "url": "/a/a3/Flag_of_Palmyra_Atoll_%28local%29.svg",
+    "offical": "/a/a4/Flag_of_the_United_States.svg",
+    "part_of": "usa"
+  },
+  {
+    "title": "Panama",
+    "name": "panama",
+    "url": "/a/ab/Flag_of_Panama.svg",
+    "FIFA": "PAN",
+    "IOC": "PAN",
+    "ISO3166_a3": "PAN",
+    "ISO3166_a2": "PA"
+  },
+  {
+    "title": "Papua New Guinea",
+    "name": "papua_new_guinea",
+    "url": "/e/e3/Flag_of_Papua_New_Guinea.svg",
+    "FIFA": "PNG",
+    "IOC": "PNG",
+    "ISO3166_a3": "PNG",
+    "ISO3166_a2": "PG"
+  },
+  {
+    "title": "Paraguay",
+    "name": "paraguay",
+    "url": "/2/27/Flag_of_Paraguay.svg",
+    "FIFA": "PAR",
+    "IOC": "PAR",
+    "ISO3166_a3": "PRY",
+    "ISO3166_a2": "PY"
+  },
+  {
+    "title": "Peru",
+    "name": "peru",
+    "url": "/c/cf/Flag_of_Peru.svg",
+    "FIFA": "PER",
+    "IOC": "PER",
+    "ISO3166_a3": "PER",
+    "ISO3166_a2": "PE"
+  },
+  {
+    "title": "Philippines",
+    "name": "philippines",
+    "url": "/9/99/Flag_of_the_Philippines.svg",
+    "FIFA": "PHI",
+    "IOC": "PHI",
+    "ISO3166_a3": "PHL",
+    "ISO3166_a2": "PH"
+  },
+  {
+    "title": "Pitcairn",
+    "name": "pitcairn",
+    "url": "/8/88/Flag_of_the_Pitcairn_Islands.svg",
+    "ISO3166_a3": "PCN",
+    "ISO3166_a2": "PN"
+  },
+  {
+    "title": "Poland",
+    "name": "poland",
+    "url": "/1/12/Flag_of_Poland.svg",
+    "FIFA": "POL",
+    "IOC": "POL",
+    "ISO3166_a3": "POL",
+    "ISO3166_a2": "PL"
+  },
+  {
+    "title": "Portugal",
+    "name": "portugal",
+    "url": "/5/5c/Flag_of_Portugal.svg",
+    "FIFA": "POR",
+    "IOC": "POR",
+    "ISO3166_a3": "PRT",
+    "ISO3166_a2": "PT"
+  },
+  {
+    "title": "Puerto Rico",
+    "name": "puerto_rico",
+    "url": "/2/28/Flag_of_Puerto_Rico.svg",
+    "part_of": "usa",
+    "FIFA": "PUR",
+    "IOC": "PUR",
+    "ISO3166_a3": "PRI",
+    "ISO3166_a2": "PR"
+  },
+  {
+    "title": "Puntland State of Somalia",
+    "name": "puntland",
+    "url": "/7/7a/Flag_of_Puntland.svg",
+    "part_of": "somalia"
+  },
+  {
+    "title": "Qatar",
+    "name": "qatar",
+    "url": "/6/65/Flag_of_Qatar.svg",
+    "FIFA": "QAT",
+    "IOC": "QAT",
+    "ISO3166_a3": "QAT",
+    "ISO3166_a2": "QA"
+  },
+  {
+    "title": "Redonda",
+    "name": "redonda",
+    "url": "/2/27/Flag_of_the_Kingdom_of_Redonda.svg",
+    "part_of": "united_kingdom"
+  },
+  {
+    "title": "Rhodesia",
+    "name": "rhodesia",
+    "url": "/e/e1/Flag_of_Rhodesia.svg",
+    "FIFA": "RHO",
+    "IOC": "RHO",
+    "ISO3166_a3": "RHO",
+    "ISO3166_a2": "RH"
+  },
+  {
+    "title": "Romania",
+    "name": "romania",
+    "url": "/7/73/Flag_of_Romania.svg",
+    "FIFA": "ROU",
+    "IOC": "ROU",
+    "ISO3166_a3": "ROU",
+    "ISO3166_a2": "RO"
+  },
+  {
+    "title": "Ross Dependency",
+    "name": "ross_dependency",
+    "url": "/e/e3/Flag_of_the_Ross_Dependency_%28unofficial%29.svg",
+    "offical": "/3/3e/Flag_of_New_Zealand.svg",
+    "part_of": "new_zealand"
+  },
+  {
+    "title": "Russia",
+    "name": "russia",
+    "url": "/f/f3/Flag_of_Russia.svg",
+    "FIFA": "RUS",
+    "IOC": "RUS",
+    "ISO3166_a3": "RUS",
+    "ISO3166_a2": "RU"
+  },
+  {
+    "title": "Rwanda",
+    "name": "rwanda",
+    "url": "/1/17/Flag_of_Rwanda.svg",
+    "FIFA": "RWA",
+    "IOC": "RWA",
+    "ISO3166_a3": "RWA",
+    "ISO3166_a2": "RW"
+  },
+  {
+    "title": "Réunion",
+    "name": "reunion",
+    "url": "/9/9d/Unofficial_flag_of_Reunion_%28MLK%29.svg",
+    "offical": "/c/c3/Flag_of_France.svg",
+    "ISO3166_a3": "REU",
+    "ISO3166_a2": "RE"
+  },
+  {
+    "title": "Saar",
+    "name": "saar",
+    "url": "/2/2b/Flag_of_Saar_%281947%E2%80%931956%29.svg",
+    "part_of": "france",
+    "obsolete": true
+  },
+  {
+    "title": "Saba",
+    "name": "saba",
+    "url": "/5/5a/Flag_of_Saba.svg",
+    "part_of": "netherlands",
+    "ISO3166_a2": "NL-BQ2"
+  },
+  {
+    "title": "Sahrawi Arab Democratic Republic",
+    "alt": "Western Sahara",
+    "name": "sadr",
+    "url": "/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+    "ISO3166_a3": "ESH",
+    "ISO3166_a2": "EH"
+  },
+  {
+    "title": "Saint Barthélemy",
+    "name": "st_barthelemy",
+    "url": "/d/df/Flag_of_Saint_Barthelemy_%28local%29.svg",
+    "offical": "/c/c3/Flag_of_France.svg",
+    "ISO3166_a3": "BLM",
+    "ISO3166_a2": "BL"
+  },
+  {
+    "title": "Saint Helena",
+    "name": "st_helena",
+    "url": "/0/00/Flag_of_Saint_Helena.svg",
+    "part_of": "sh_a_tdc",
+    "ISO3166_a3": "SHN",
+    "ISO3166_a2": "SH"
+  },
+  {
+    "title": "Saint Helena, Ascension and Tristan da Cunha",
+    "name": "sh_a_tdc",
+    "url": "/a/ae/Flag_of_the_United_Kingdom.svg",
+    "ISO3166_a3": "SHN",
+    "ISO3166_a2": "SH"
+  },
+  {
+    "title": "Saint Kitts and Nevis",
+    "name": "st_kitts_and_nevis",
+    "url": "/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+    "FIFA": "SKN",
+    "IOC": "SKN",
+    "ISO3166_a3": "KNA",
+    "ISO3166_a2": "KN"
+  },
+  {
+    "title": "Saint Lucia",
+    "name": "st_lucia",
+    "url": "/9/9f/Flag_of_Saint_Lucia.svg",
+    "FIFA": "LCA",
+    "IOC": "LCA",
+    "ISO3166_a3": "LCA",
+    "ISO3166_a2": "LC"
+  },
+  {
+    "title": "Saint Pierre and Miquelon",
+    "name": "st_pierre_and_miquelon",
+    "url": "/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg",
+    "offical": "/c/c3/Flag_of_France.svg",
+    "part_of": "france",
+    "ISO3166_a3": "SPM",
+    "ISO3166_a2": "PM"
+  },
+  {
+    "title": "Saint Vincent and the Grenadines",
+    "name": "grenadines",
+    "url": "/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+    "FIFA": "VIN",
+    "IOC": "VIN",
+    "ISO3166_a3": "VCT",
+    "ISO3166_a2": "VC"
+  },
+  {
+    "title": "Saint-Martin",
+    "name": "st_martin",
+    "url": "/e/ec/Flag_of_Saint-Martin_%28local%29.svg",
+    "offical": "/c/c3/Flag_of_France.svg",
+    "part_of": "france",
+    "ISO3166_a3": "MAF",
+    "ISO3166_a2": "MF"
+  },
+  {
+    "title": "Samoa",
+    "name": "samoa",
+    "url": "/3/31/Flag_of_Samoa.svg",
+    "FIFA": "SAM",
+    "IOC": "SAM",
+    "ISO3166_a3": "WSM",
+    "ISO3166_a2": "WS"
+  },
+  {
+    "title": "San Marino",
+    "name": "san_marino",
+    "url": "/b/b1/Flag_of_San_Marino.svg",
+    "FIFA": "SMR",
+    "IOC": "SMR",
+    "ISO3166_a3": "SMR",
+    "ISO3166_a2": "SM"
+  },
+  {
+    "title": "Sao Tome and Principe",
+    "name": "sao_tome_and_principe",
+    "url": "/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+    "FIFA": "STP",
+    "IOC": "STP",
+    "ISO3166_a3": "STP",
+    "ISO3166_a2": "ST"
+  },
+  {
+    "title": "Sark",
+    "name": "sark",
+    "url": "/6/64/Flag_of_Sark.svg",
+    "part_of": "united_kingdom"
+  },
+  {
+    "title": "Saudi Arabia",
+    "name": "saudi_arabia",
+    "url": "/0/0d/Flag_of_Saudi_Arabia.svg",
+    "FIFA": "KSA",
+    "IOC": "KSA",
+    "ISO3166_a3": "SAU",
+    "ISO3166_a2": "SA"
+  },
+  {
+    "title": "Scotland",
+    "name": "scotland",
+    "url": "/1/10/Flag_of_Scotland.svg",
+    "FIFA": "SCO",
+    "ISO3166_a3": "SCT",
+    "ISO3166_a2": "SCT"
+  },
+  {
+    "title": "Second Hellenic Republic",
+    "name": "hellenic2",
+    "url": "/6/6e/Flag_of_Greece_%281822-1978%29.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Senegal",
+    "name": "senegal",
+    "url": "/f/fd/Flag_of_Senegal.svg",
+    "FIFA": "SEN",
+    "IOC": "SEN",
+    "ISO3166_a3": "SEN",
+    "ISO3166_a2": "SN"
+  },
+  {
+    "title": "Serbia",
+    "name": "serbia",
+    "url": "/f/ff/Flag_of_Serbia.svg",
+    "FIFA": "SRB",
+    "IOC": "SRB",
+    "ISO3166_a3": "SRB",
+    "ISO3166_a2": "RS"
+  },
+  {
+    "title": "Serbia and Montenegro",
+    "name": "serbia_and_montenegro",
+    "url": "/9/90/Flag_of_Serbia_and_Montenegro.svg",
+    "obsolete": true,
+    "FIFA": "YUG",
+    "IOC": "YUG",
+    "ISO3166_a3": "YUG",
+    "ISO3166_a2": "YU"
+  },
+  {
+    "title": "Serbian Empire",
+    "name": "serbian_empire",
+    "url": "/e/ea/Supposed_Serbian_Empire_flag.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Seychelles",
+    "name": "seychelles",
+    "url": "/f/fc/Flag_of_Seychelles.svg",
+    "FIFA": "SEY",
+    "IOC": "SEY",
+    "ISO3166_a3": "SYC",
+    "ISO3166_a2": "SC"
+  },
+  {
+    "title": "Sheikhdom of Kuwait",
+    "name": "sheikhdom_of_kuwait",
+    "url": "/d/d8/Standard_of_the_Emir_of_Kuwait%2C_1956.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Siam",
+    "name": "siam",
+    "url": "/a/a9/Flag_of_Thailand.svg",
+    "obsolete": true
+  },
+  {
+    "title": "Sierra Leone",
+    "name": "sierra_leone",
+    "url": "/1/17/Flag_of_Sierra_Leone.svg",
+    "FIFA": "SLE",
+    "IOC": "SLE",
+    "ISO3166_a3": "SLE",
+    "ISO3166_a2": "SL"
+  },
+  {
+    "title": "Sikkim",
+    "name": "sikkim",
+    "url": "/1/1e/Flag_of_Sikkim_monarchy.svg",
+    "part_of": "india",
+    "ISO3166_a3": "SKM",
+    "ISO3166_a2": "SK"
+  },
+  {
+    "title": "Singapore",
+    "name": "singapore",
+    "url": "/4/48/Flag_of_Singapore.svg",
+    "FIFA": "SIN",
+    "IOC": "SIN",
+    "ISO3166_a3": "SGP",
+    "ISO3166_a2": "SG"
+  },
+  {
+    "title": "Sint Eustatius",
+    "name": "sint_eustatius",
+    "url": "/0/08/Flag_of_Sint_Eustatius.svg",
+    "part_of": "Netherlands",
+    "ISO3166_a2": "NL-BQ3"
+  },
+  {
+    "title": "Sint Maarten",
+    "name": "sint_maarten",
+    "url": "/d/d3/Flag_of_Sint_Maarten.svg",
+    "part_of": "netherlands",
+    "ISO3166_a3": "SXM",
+    "ISO3166_a2": "SX"
+  },
+  {
+    "title": "Slovakia",
+    "name": "slovakia",
+    "url": "/e/e6/Flag_of_Slovakia.svg",
+    "FIFA": "SVK",
+    "IOC": "SVK",
+    "ISO3166_a3": "SVK",
+    "ISO3166_a2": "SK"
+  },
+  {
+    "title": "Slovenia",
+    "name": "slovenia",
+    "url": "/f/f0/Flag_of_Slovenia.svg",
+    "FIFA": "SVN",
+    "IOC": "SLO",
+    "ISO3166_a3": "SVN",
+    "ISO3166_a2": "SI"
+  },
+  {
+    "title": "Solomon Islands",
+    "name": "solomon_islands",
+    "url": "/7/74/Flag_of_the_Solomon_Islands.svg",
+    "FIFA": "SOL",
+    "IOC": "SOL",
+    "ISO3166_a3": "SLB",
+    "ISO3166_a2": "SB"
+  },
+  {
+    "title": "Somalia",
+    "name": "somalia",
+    "url": "/a/a0/Flag_of_Somalia.svg",
+    "FIFA": "SOM",
+    "IOC": "SOM",
+    "ISO3166_a3": "SOM",
+    "ISO3166_a2": "SO"
+  },
+  {
+    "title": "Somaliland",
+    "name": "somaliland",
+    "url": "/4/4d/Flag_of_Somaliland.svg"
+  },
+  {
+    "title": "South Africa",
+    "name": "south_africa",
+    "url": "/a/af/Flag_of_South_Africa.svg",
+    "FIFA": "RSA",
+    "IOC": "RSA",
+    "ISO3166_a3": "ZAF",
+    "ISO3166_a2": "ZA"
+  },
+  {
+    "title": "South Georgia and the South Sandwich Islands",
+    "name": "sgssi",
+    "url": "/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
+    "part_of": "united_kingdom",
+    "ISO3166_a3": "SGS",
+    "ISO3166_a2": "GS"
+  },
+  {
+    "title": "South Ossetia",
+    "name": "south_ossetia",
+    "url": "/1/12/Flag_of_South_Ossetia.svg",
+    "part_of": "georgia"
+  },
+  {
+    "title": "South Sudan",
+    "name": "south_sudan",
+    "url": "/7/7a/Flag_of_South_Sudan.svg",
+    "FIFA": "SSD",
+    "ISO3166_a3": "SSD",
+    "ISO3166_a2": "SS"
+  },
+  {
+    "title": "South Vietnam",
+    "name": "south_vietnam",
+    "url": "/e/e9/Flag_of_South_Vietnam.svg",
+    "FIFA": "VSO",
+    "IOC": "VNM",
+    "ISO3166_a3": "VNM",
+    "ISO3166_a2": "VN"
+  },
+  {
+    "title": "South Yemen",
+    "name": "south_yemen",
+    "url": "/d/db/Flag_of_South_Yemen.svg",
+    "FIFA": "SYE",
+    "IOC": "YMD",
+    "ISO3166_a3": "YMD",
+    "ISO3166_a2": "YD"
+  },
+  {
+    "title": "Southern Rhodesia",
+    "name": "south_rhodesia",
+    "url": "/a/af/Flag_of_Southern_Rhodesia.svg",
+    "part_of": "united_kingdom",
+    "obsolete": true,
+    "ISO3166_a3": "RSR",
+    "ISO3166_a2": "RH"
+  },
+  {
+    "title": "Sovereign Military Order of Malta",
+    "name": "smom",
+    "url": "/8/8e/Flag_of_the_Sovereign_Military_Order_of_Malta.svg",
+    "ISO3166_a3": "XOM"
+  },
+  {
+    "title": "Soviet Union",
+    "name": "soviet_union",
+    "url": "/a/a9/Flag_of_the_Soviet_Union.svg",
+    "FIFA": "URS",
+    "IOC": "URS",
+    "ISO3166_a3": "SUN",
+    "ISO3166_a2": "IC"
+  },
+  {
+    "title": "Spain",
+    "name": "spain",
+    "url": "/9/9a/Flag_of_Spain.svg",
+    "FIFA": "ESP",
+    "IOC": "ESP",
+    "ISO3166_a3": "ESP",
+    "ISO3166_a2": "ES"
+  },
+  {
+    "title": "Sri Lanka",
+    "name": "sri_lanka",
+    "url": "/1/11/Flag_of_Sri_Lanka.svg",
+    "FIFA": "SRI",
+    "IOC": "SRI",
+    "ISO3166_a3": "LKA",
+    "ISO3166_a2": "LK"
+  },
+  {
+    "title": "State of Palestine",
+    "name": "palestine",
+    "url": "/0/00/Flag_of_Palestine.svg",
+    "FIFA": "PLE",
+    "IOC": "PLE",
+    "ISO3166_a3": "PSE",
+    "ISO3166_a2": "PS"
+  },
+  {
+    "title": "Sudan",
+    "name": "sudan",
+    "url": "/0/01/Flag_of_Sudan.svg",
+    "FIFA": "SDN",
+    "IOC": "SUD",
+    "ISO3166_a3": "SDN",
+    "ISO3166_a2": "SD"
+  },
+  {
+    "title": "Suriname",
+    "name": "suriname",
+    "url": "/6/60/Flag_of_Suriname.svg",
+    "FIFA": "SUR",
+    "IOC": "SUR",
+    "ISO3166_a3": "SUR",
+    "ISO3166_a2": "SR"
+  },
+  {
+    "title": "Svalbard and Jan Mayen",
+    "name": "svalbard",
+    "url": "/d/d9/Flag_of_Norway.svg",
+    "part_of": "norway",
+    "ISO3166_a3": "SJM",
+    "ISO3166_a2": "SJ"
+  },
+  {
+    "title": "Swaziland",
+    "name": "swaziland",
+    "url": "/1/1e/Flag_of_Swaziland.svg",
+    "FIFA": "SWZ",
+    "IOC": "SWZ",
+    "ISO3166_a3": "SWZ",
+    "ISO3166_a2": "SZ"
+  },
+  {
+    "title": "Sweden",
+    "name": "sweden",
+    "url": "/4/4c/Flag_of_Sweden.svg",
+    "FIFA": "SWE",
+    "IOC": "SWE",
+    "ISO3166_a3": "SWE",
+    "ISO3166_a2": "SE"
+  },
+  {
+    "title": "Switzerland",
+    "name": "switzerland",
+    "url": "/f/f3/Flag_of_Switzerland.svg",
+    "FIFA": "SUI",
+    "IOC": "SUI",
+    "ISO3166_a3": "CHE",
+    "ISO3166_a2": "CH"
+  },
+  {
+    "title": "Syrian Arab Republic",
+    "name": "syria",
+    "url": "/5/53/Flag_of_Syria.svg",
+    "FIFA": "SYR",
+    "IOC": "SYR",
+    "ISO3166_a3": "SYR",
+    "ISO3166_a2": "SY"
+  },
+  {
+    "title": "Tahiti",
+    "name": "tahiti",
+    "url": "/4/48/Flag_of_Tahiti.svg",
+    "part_of": "france"
+  },
+  {
+    "title": "Taiwan",
+    "name": "taiwan",
+    "url": "/7/72/Flag_of_the_Republic_of_China.svg",
+    "FIFA": "TPE",
+    "IOC": "TPE",
+    "ISO3166_a3": "TWN",
+    "ISO3166_a2": "TW"
+  },
+  {
+    "title": "Tajikistan",
+    "name": "tajikistan",
+    "url": "/d/d0/Flag_of_Tajikistan.svg",
+    "FIFA": "TJK",
+    "IOC": "TJK",
+    "ISO3166_a3": "TJK",
+    "ISO3166_a2": "TJ"
+  },
+  {
+    "title": "Tanganyika",
+    "name": "tanganyika",
+    "url": "/1/1c/Flag_of_Tanganyika.svg",
+    "obsolete": true,
+    "ISO3166_a3": "EAT"
+  },
+  {
+    "title": "Tanzania, United Republic of",
+    "name": "tanzania",
+    "url": "/3/38/Flag_of_Tanzania.svg",
+    "FIFA": "TAN",
+    "IOC": "TAN",
+    "ISO3166_a3": "TZA",
+    "ISO3166_a2": "TZ"
+  },
+  {
+    "title": "Thailand",
+    "name": "thailand",
+    "url": "/a/a9/Flag_of_Thailand.svg",
+    "FIFA": "THA",
+    "IOC": "THA",
+    "ISO3166_a3": "THA",
+    "ISO3166_a2": "TH"
+  },
+  {
+    "title": "Tibet",
+    "name": "tibet",
+    "url": "/3/3c/Flag_of_Tibet.svg",
+    "part_of": "china"
+  },
+  {
+    "title": "Timor-Leste",
+    "name": "timor_leste",
+    "url": "/2/26/Flag_of_East_Timor.svg",
+    "FIFA": "TLS",
+    "IOC": "TLS",
+    "ISO3166_a3": "TLS",
+    "ISO3166_a2": "TL"
+  },
+  {
+    "title": "Togo",
+    "name": "togo",
+    "url": "/6/68/Flag_of_Togo.svg",
+    "FIFA": "TOG",
+    "IOC": "TOG",
+    "ISO3166_a3": "TGO",
+    "ISO3166_a2": "TG"
+  },
+  {
+    "title": "Tokelau",
+    "name": "tokelau",
+    "url": "/8/8e/Flag_of_Tokelau.svg",
+    "ISO3166_a3": "TKL",
+    "ISO3166_a2": "TK"
+  },
+  {
+    "title": "Tonga",
+    "name": "tonga",
+    "url": "/9/9a/Flag_of_Tonga.svg",
+    "FIFA": "TGA",
+    "IOC": "TGA",
+    "ISO3166_a3": "TON",
+    "ISO3166_a2": "TO"
+  },
+  {
+    "title": "Transnistria",
+    "name": "transnistria",
+    "url": "/b/bc/Flag_of_Transnistria_%28state%29.svg",
+    "part_of": "moldova"
+  },
+  {
+    "title": "Trinidad and Tobago",
+    "name": "trinidad_and_tobago",
+    "url": "/6/64/Flag_of_Trinidad_and_Tobago.svg",
+    "FIFA": "TRI",
+    "IOC": "TRI",
+    "ISO3166_a3": "TTO",
+    "ISO3166_a2": "TT"
+  },
+  {
+    "title": "Tristan da Cunha",
+    "name": "tristan_da_cunha",
+    "url": "/8/89/Flag_of_Tristan_da_Cunha.svg",
+    "part_of": "sh_a_tdc",
+    "ISO3166_a3": "TAA",
+    "ISO3166_a2": "TA"
+  },
+  {
+    "title": "Trust Territory of Somalia",
+    "name": "somalia_tt",
+    "url": "/a/a0/Flag_of_Somalia.svg",
+    "part_of": "italy",
+    "obsolete": true
+  },
+  {
+    "title": "Tunisia",
+    "name": "tunisia",
+    "url": "/c/ce/Flag_of_Tunisia.svg",
+    "FIFA": "TUN",
+    "IOC": "TUN",
+    "ISO3166_a3": "TUN",
+    "ISO3166_a2": "TN"
+  },
+  {
+    "title": "Turkey",
+    "name": "turkey",
+    "url": "/b/b4/Flag_of_Turkey.svg",
+    "FIFA": "TUR",
+    "IOC": "TUR",
+    "ISO3166_a3": "TUR",
+    "ISO3166_a2": "TR"
+  },
+  {
+    "title": "Turkmenistan",
+    "name": "turkmenistan",
+    "url": "/1/1b/Flag_of_Turkmenistan.svg",
+    "FIFA": "TKM",
+    "IOC": "TKM",
+    "ISO3166_a3": "TKM",
+    "ISO3166_a2": "TM"
+  },
+  {
+    "title": "Turks and Caicos Islands",
+    "name": "tci",
+    "url": "/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg",
+    "part_of": "united_kingdom",
+    "FIFA": "TCA",
+    "ISO3166_a3": "TCA",
+    "ISO3166_a2": "TC"
+  },
+  {
+    "title": "Tuvalu",
+    "name": "tuvalu",
+    "url": "/3/38/Flag_of_Tuvalu.svg",
+    "IOC": "TUV",
+    "ISO3166_a3": "TUV",
+    "ISO3166_a2": "TV"
+  },
+  {
+    "title": "Uganda",
+    "name": "uganda",
+    "url": "/4/4e/Flag_of_Uganda.svg",
+    "FIFA": "UGA",
+    "IOC": "UGA",
+    "ISO3166_a3": "UGA",
+    "ISO3166_a2": "UG"
+  },
+  {
+    "title": "Ukraine",
+    "name": "ukraine",
+    "url": "/4/49/Flag_of_Ukraine.svg",
+    "FIFA": "UKR",
+    "IOC": "UKR",
+    "ISO3166_a3": "UKR",
+    "ISO3166_a2": "UA"
+  },
+  {
+    "title": "United Arab Emirates",
+    "name": "emirates",
+    "url": "/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+    "FIFA": "UAE",
+    "IOC": "UAE",
+    "ISO3166_a3": "ARE",
+    "ISO3166_a2": "AE"
+  },
+  {
+    "title": "United Arab Republic",
+    "name": "united_arab_republic",
+    "url": "/5/58/Flag_of_United_Arab_Republic.svg",
+    "obsolete": true
+  },
+  {
+    "title": "United Kingdom",
+    "name": "united_kingdom",
+    "url": "/a/ae/Flag_of_the_United_Kingdom.svg",
+    "IOC": "GBR",
+    "ISO3166_a3": "GBR",
+    "ISO3166_a2": "GB"
+  },
+  {
+    "title": "United States Minor Outlying Islands",
+    "name": "us_minor_islands",
+    "url": "/a/a4/Flag_of_the_United_States.svg",
+    "part_of": "usa",
+    "ISO3166_a3": "UMI",
+    "ISO3166_a2": "UM"
+  },
+  {
+    "title": "United States of America",
+    "name": "usa",
+    "url": "/a/a4/Flag_of_the_United_States.svg",
+    "FIFA": "USA",
+    "IOC": "USA",
+    "ISO3166_a3": "USA",
+    "ISO3166_a2": "US"
+  },
+  {
+    "title": "Upper Volta",
+    "name": "upper_volta",
+    "url": "/4/4a/Flag_of_Upper_Volta.svg",
+    "FIFA": "UPV",
+    "IOC": "VOL",
+    "ISO3166_a3": "HVO",
+    "ISO3166_a2": "HV"
+  },
+  {
+    "title": "Uruguay",
+    "name": "uruguay",
+    "url": "/f/fe/Flag_of_Uruguay.svg",
+    "FIFA": "URU",
+    "IOC": "URU",
+    "ISO3166_a3": "URY",
+    "ISO3166_a2": "UY"
+  },
+  {
+    "title": "Uzbekistan",
+    "name": "uzbekistan",
+    "url": "/8/84/Flag_of_Uzbekistan.svg",
+    "FIFA": "UZB",
+    "IOC": "UZB",
+    "ISO3166_a3": "UZB",
+    "ISO3166_a2": "UZ"
+  },
+  {
+    "title": "Vanuatu",
+    "name": "vanuatu",
+    "url": "/b/bc/Flag_of_Vanuatu.svg",
+    "FIFA": "VAN",
+    "IOC": "VAN",
+    "ISO3166_a3": "VUT",
+    "ISO3166_a2": "VU"
+  },
+  {
+    "title": "Venezuela, Bolivarian Republic of",
+    "name": "venezuela",
+    "url": "/0/06/Flag_of_Venezuela.svg",
+    "FIFA": "VEN",
+    "IOC": "VEN",
+    "ISO3166_a3": "VEN",
+    "ISO3166_a2": "VE"
+  },
+  {
+    "title": "Vietnam",
+    "name": "vietnam",
+    "url": "/2/21/Flag_of_Vietnam.svg",
+    "FIFA": "VIE",
+    "IOC": "VIE",
+    "ISO3166_a3": "VNM",
+    "ISO3166_a2": "VN"
+  },
+  {
+    "title": "Virgin Islands, British",
+    "name": "virgin_islands",
+    "url": "/4/42/Flag_of_the_British_Virgin_Islands.svg",
+    "FIFA": "VGB",
+    "IOC": "IVB",
+    "ISO3166_a3": "VGB",
+    "ISO3166_a2": "VG"
+  },
+  {
+    "title": "Virgin Islands, U.S.",
+    "name": "usvi",
+    "url": "/f/f8/Flag_of_the_United_States_Virgin_Islands.svg",
+    "part_of": "usa",
+    "FIFA": "VIR",
+    "IOC": "ISV",
+    "ISO3166_a3": "VIR",
+    "ISO3166_a2": "VI"
+  },
+  {
+    "title": "Wake Island",
+    "name": "wake_island",
+    "url": "/4/47/Flag_of_Wake_Island.svg",
+    "offical": "/a/a4/Flag_of_the_United_States.svg",
+    "part_of": "usa",
+    "ISO3166_a3": "WAK",
+    "ISO3166_a2": "WK"
+  },
+  {
+    "title": "Wales",
+    "name": "wales",
+    "url": "/5/59/Flag_of_Wales_2.svg",
+    "FIFA": "WAL",
+    "ISO3166_a3": "WLS",
+    "ISO3166_a2": "WLS"
+  },
+  {
+    "title": "Wallis and Futuna",
+    "name": "wallis_and_futuna",
+    "url": "/d/d2/Flag_of_Wallis_and_Futuna.svg",
+    "offical": "/c/c3/Flag_of_France.svg",
+    "ISO3166_a3": "WLF",
+    "ISO3166_a2": "WF"
+  },
+  {
+    "title": "West Germany",
+    "name": "west_germany",
+    "url": "/b/ba/Flag_of_Germany.svg",
+    "FIFA": "FRG",
+    "IOC": "FRG",
+    "ISO3166_a3": "DEU"
+  },
+  {
+    "title": "Yemen",
+    "name": "yemen",
+    "url": "/8/89/Flag_of_Yemen.svg",
+    "FIFA": "YEM",
+    "IOC": "YEM",
+    "ISO3166_a3": "YEM"
+  },
+  {
+    "title": "Yugoslavia",
+    "name": "yugoslavia",
+    "url": "/7/71/Flag_of_SFR_Yugoslavia.svg",
+    "FIFA": "YUG",
+    "IOC": "YUG",
+    "ISO3166_a3": "YUG",
+    "ISO3166_a2": "YU"
+  },
+  {
+    "title": "Zaire",
+    "name": "zaire",
+    "url": "/5/5c/Flag_of_Zaire.svg",
+    "FIFA": "ZAI",
+    "IOC": "ZAI",
+    "ISO3166_a3": "ZAR",
+    "ISO3166_a2": "ZR"
+  },
+  {
+    "title": "Zambia",
+    "name": "zambia",
+    "url": "/0/06/Flag_of_Zambia.svg",
+    "FIFA": "ZAM",
+    "IOC": "ZAM",
+    "ISO3166_a3": "ZMB",
+    "ISO3166_a2": "ZM"
+  },
+  {
+    "title": "Zanzibar",
+    "name": "zanzibar",
+    "url": "/d/d4/Flag_of_Zanzibar.svg",
+    "part_of": "tanzania",
+    "ISO3166_a3": "EAZ"
+  },
+  {
+    "title": "Zimbabwe",
+    "name": "zimbabwe",
+    "url": "/6/6a/Flag_of_Zimbabwe.svg",
+    "FIFA": "ZIM",
+    "IOC": "ZIM",
+    "ISO3166_a3": "ZWE",
+    "ISO3166_a2": "ZW"
+  },
+  {
+    "title": "Åland Islands",
+    "name": "aland",
+    "url": "/5/52/Flag_of_%C3%85land.svg",
+    "part_of": "finland",
+    "ISO3166_a3": "ALA",
+    "ISO3166_a2": "AX"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "flags-js",
+  "description": "flag scraper and server",
+  "version": "1.0.0",
+  "author": "Borgar <borgar@borgar.net>",
+  "keywords": ["flag", "flags"],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/borgar/node-flags/raw/master/LICENSE"
+  }],
+  "dependencies": {
+    "canvas": "*",
+    "xmldom": "*",
+    "rgbcolor": "*"
+  }
+}

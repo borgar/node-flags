@@ -1,0 +1,25 @@
+
+Allow user to filter output to
+  - only sovreign (no 'part_of')
+  - only current (no obsolete)
+
+
+Possible Rendering errors
+  - cyprus.png
+  - seychelles.png
+  - biot.png  (British Indian Ocean Territory)
+
+
+Missing flags:
+  - http://flagspot.net/flags/gb-bat.html
+  - http://flagspot.net/flags/bq.html
+  - https://en.wikipedia.org/wiki/File:Flag_of_Libya_(1977-2011).svg
+  - http://flagspot.net/flags/tf.html
+
+
+Is normalization correct for these:
+  - great britain => britain => united_kingdom => uk
+  - holland => netherlands (?)
+  - Ivory Coast => Cote d'Ivore
+  - East Timor / Timor-Leste
+
