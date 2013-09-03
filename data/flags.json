@@ -674,6 +674,12 @@
     "ISO3166_a2": "DY"
   },
   {
+    "title": "Democratic Kampuchea",
+    "name": "kampuchea",
+    "url": "/a/a9/Flag_of_Democratic_Kampuchea.svg",
+    "obsolete": true
+  },
+  {
     "title": "Denmark",
     "name": "denmark",
     "url": "/9/9c/Flag_of_Denmark.svg",
@@ -1944,6 +1950,12 @@
     "IOC": "PAR",
     "ISO3166_a3": "PRY",
     "ISO3166_a2": "PY"
+  },
+  {
+    "title": "People's Republic of Kampuchea",
+    "name": "kampuchea_pr",
+    "url": "/f/f1/PROKFlag1979-1989.svg",
+    "obsolete": true
   },
   {
     "title": "Peru",
