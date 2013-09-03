@@ -1,6 +1,18 @@
 /*jshint node:true*/
 "use strict";
 
+var scrapertools = require("./lib/scrapertools")
+  , get_or_load = scrapertools.get_or_load
+  , open_data_repo = scrapertools.open_data_repo
+  , mkdirSync = require("./lib/mkdir").mkdirSync
+  , fs = require('fs')
+  , canvg = require("./lib/canvg")
+  , Canvas = require("canvas")
+  , supersample = require('./lib/supersample').supersample
+  , normalize_country_name = require('./lib/normalize_country_name').normalize_country_name
+  ;
+
+
 function okNum ( n ) { return ( typeof n === 'number' && isFinite( n ) ); }
 
 var opts = require('optimist')
@@ -25,15 +37,32 @@ var opts = require('optimist')
   , argv = opts.argv
   ;
 
-
 // detect no-arguments
 var a_test = require('optimist').argv;
 var have_opts = ( a_test.w || a_test.h ) || a_test.server;
+
+// arguments shortcuts
+var whitelist_countries = null;
+argv._.forEach(function( a ){
+  // 20x20 dimensions shorthand
+  var m = /^(\d+)x(\d+)$/.exec( a );
+  if ( m ) {
+    argv.w = parseInt( m[0], 10 );
+    argv.h = parseInt( m[1], 10 );
+    have_opts = true;
+  }
+  else {
+    if ( !whitelist_countries ) { whitelist_countries = {}; }
+    whitelist_countries[ normalize_country_name( a ) ] = a;
+  }
+});
+
 
 if ( argv.help || !have_opts ) {
   console.log( opts.help() );
   process.exit(0);
 }
+
 
 var fnid_to_prop = {
   "id": "name"
@@ -43,20 +72,6 @@ var fnid_to_prop = {
 , "iso2": "ISO3166_a2"
 };
 var filenames = argv.filenames.split( /,/ ).map(function ( d ) { return fnid_to_prop[ d ]; });
-
-var scrapertools = require("./lib/scrapertools")
-  , get_or_load = scrapertools.get_or_load
-  , open_data_repo = scrapertools.open_data_repo
-  , mkdirSync = require("./lib/mkdir").mkdirSync
-  ;
-
-var fs = require('fs')
-  , canvg = require("./lib/canvg")
-  , Canvas = require("canvas")
-  , supersample = require('./lib/supersample').supersample
-  , normalize_country_name = require('./lib/normalize_country_name').normalize_country_name
-  ;
-
 var countries = [];
 var commons_url = 'http://upload.wikimedia.org/wikipedia/commons';
 var max_height = Number( argv.h || 0 ) || Infinity;
@@ -82,6 +97,16 @@ function fetch_next_flag () {
   if ( pending_read.length ) {
     var country = pending_read.pop();
     var url = commons_url + country.url;
+
+    // passes filter?
+    if ( whitelist_countries ) {
+      if ( !(country.name in whitelist_countries) ) {
+        return process.nextTick( fetch_next_flag );
+      }
+    }
+    // TODO: add more filters here: --existing --sovreign
+
+    countries.push( country );
     /*
      * So what happens if the filename/URL has changed?
      *
@@ -101,8 +126,7 @@ function fetch_next_flag () {
 
 open_data_repo( 'data/flags.json', function ( err, c ) {
   if ( err ) { throw err; }
-  countries = c.concat();
-  pending_read = c.concat();
+  pending_read = c;
   fetch_next_flag();
 });
 
@@ -149,6 +173,7 @@ function render_to_bitmap ( svg, writeStream, requested_max_width, requested_max
   outCanvas.width = dest_width;
   outCanvas.height = Math.ceil( canvas.height * ( dest_width / canvas.width ) );
   outCanvas.getContext( '2d' ).putImageData( resampled, 0, 0 );
+
   // save icon
   stream = outCanvas.createPNGStream();
   stream.on( 'data', function ( chunk ) { writeStream.write( chunk ); } );
