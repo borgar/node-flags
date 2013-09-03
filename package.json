@@ -9,6 +9,7 @@
     "url": "http://github.com/borgar/node-flags/raw/master/LICENSE"
   }],
   "dependencies": {
+    "optimist": "*",
     "canvas": "*",
     "xmldom": "*",
     "rgbcolor": "*"
